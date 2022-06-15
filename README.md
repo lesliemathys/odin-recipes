@@ -7,4 +7,5 @@ The first HTML project as part of The Odin Project Foundations course.
 - Basic CSS syntax
 - Linking CSS to HTML pages
 - Basic styling of HTML elements
+- Using Google Fonts API to add a wider range fonts to my pages
 - CSS Cascade order
