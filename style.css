@@ -38,6 +38,8 @@ a:hover {
     width: 50%;
     width: 20em;
     height: auto;
+    border: none;
+    border-radius: 0.5em;
 }
 
 .container {
