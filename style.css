@@ -1,5 +1,6 @@
 body .landing-header {
     font-family: 'Bungee Shade', sans-serif;
+    font-size: 5em;
 }
 
 body .recipe-header {
@@ -44,4 +45,21 @@ a:hover {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.recipe-btn {
+    font-size: 2em;
+    background-color: rgb(201 25 1);
+    border: none;
+    border-radius: 0.5em;
+    color: #FFF07C;
+    padding: 0.25em 0.5em;
+    transition-duration: 0.25s;
+    cursor: pointer;
+}
+
+.recipe-btn:hover {
+    background-color: #FFF07C;
+    color: rgb(201 25 1);
+    border: 0.075em solid rgb(201 25 1);
 }
