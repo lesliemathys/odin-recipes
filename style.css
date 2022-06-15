@@ -2,6 +2,10 @@ body .landing-header {
     font-family: 'Bungee Shade', sans-serif;
 }
 
+body .recipe-header {
+    font-family: 'Bungee', sans-serif;
+}
+
 body {
     background-color: #efefef;
     font-family: Arial, Helvetica, sans-serif;
