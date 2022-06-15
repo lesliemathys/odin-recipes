@@ -39,3 +39,9 @@ a:hover {
     height: auto;
 }
 
+.container {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
